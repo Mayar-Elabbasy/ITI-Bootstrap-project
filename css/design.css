@@ -1,0 +1,39 @@
+.head{
+    font-family: 'DM Serif Text', serif; 
+    font-size: 100px;
+    font-weight: bold;
+}
+.sub{
+    font-family: 'Roboto Mono', monospace;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.Search{
+    border: none !important;
+    border-bottom-style: solid !important;
+}
+.text{
+     font-family: 'DM Serif Text', serif; 
+}
+form .Search::placeholder{
+color: white;
+}
+.work{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.getInTouchButton{
+    border-style: solid !important;
+    border: 3px;
+}
+.backg{
+    background-color:#f7be16;
+}
+.footer{
+padding-bottom: 40px;  
+}
+.caption{
+  padding-top: 250px;
+  padding-bottom: 150px;
+}
